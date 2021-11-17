@@ -1,0 +1,11 @@
+name = "serverless-api"
+type = "webpack"
+
+account_id = "9b957413c861a2f2b3e3074a9cf01b17"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-17"
+kv_namespaces = [
+    { binding = "MY_KV", preview_id = "4fa2b9b4564d49f2b7ac08e9f3b0ff9d", id = "93b80c0269b24689bfc862b7599d7512" }
+]
